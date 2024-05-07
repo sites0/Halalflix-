@@ -7,7 +7,7 @@ h1{
     font-size: 50px; font-family: 'Netflix Font', sans-serif;
 
 }
-h4{
+#nop{
     color: white;
     font-size: 70px;
      font-weight: 800;
@@ -26,10 +26,8 @@ h2{
 
 @media screen and (max-width:375px)
 {
-h4{ text-align:left;
+#nop{ text-align:left;
    text-size:small
-          
-
  }
 }
 
