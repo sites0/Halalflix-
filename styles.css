@@ -54,4 +54,16 @@ a{
       font-size: 16px;
       margin-right: 10px;
      }
- 
+ }
+     @media (min-width: 300px) {
+        iframe {
+          width:110px;
+          height:100px;
+        }
+      }
+      @media (min-width: 300px) {
+        .nope {
+          width:350px;
+          height:200px;
+        }
+      }
